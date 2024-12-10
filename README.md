@@ -39,4 +39,7 @@ Los sistemas modernos de adquisición de datos digitales constan de cuatro compo
 -Convertidores Analógico-Digital
 -Computadora con software DAQ para registro y análisis de señales (Smith, 2024)
 
+![](https://github.com/AntoniodeJesus19/INVESTIGACION/blob/main/Captura%20de%20pantalla%202024-12-07%20002041.png?raw=true)
+
+
 

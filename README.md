@@ -102,4 +102,5 @@ Smith, G. M. (05 de 02 de 2024). dewesoft. Obtenido de https://dewesoft.com/es/b
 
 ### Elaborado por:
 Antonio de Jesús Mentado Huerta
+
 [Github](https://github.com/AntoniodeJesus19)
